@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="300" viewBox="0 0 1120 300" role="img" aria-labelledby="title desc">
+<title id="title">Aliviana Consultores Financieros</title>
+<desc id="desc">Logo vectorial transparente: A azul petróleo atravesada por una flecha verde ascendente de punta recta, junto al nombre Aliviana y el subtítulo alineado.</desc>
+<g transform="translate(28 28)">
+ <path fill="#102938" d="M13 229 105 16 156 112 130 141 105 88 61 184 39 229Z"/>
+ <path fill="#102938" d="m143 167 27 62h61l-52-105Z"/>
+ <path fill="#c1e6cc" d="M52 230C86 189 111 162 161 138c-43 32-62 55-86 92Z"/>
+ <path d="M17 229 C72 151 125 113 192 75" fill="none" stroke="#14594d" stroke-width="26" stroke-linecap="round"/>
+ <path fill="#14594d" d="M240 47 174 51 206 99Z"/>
+</g>
+<g fill="#102938">
+ <text x="270" y="164" font-family="Manrope,Montserrat,Arial,sans-serif" font-size="108" font-weight="700" letter-spacing="-3" textLength="710" lengthAdjust="spacingAndGlyphs">Aliviana</text>
+ <text x="270" y="211" font-family="Montserrat,Arial,sans-serif" font-size="21" font-weight="600" letter-spacing="2" textLength="710" lengthAdjust="spacing">CONSULTORES FINANCIEROS</text>
+</g>
+</svg>
